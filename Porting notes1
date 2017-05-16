@@ -1,0 +1,3 @@
+Porting of linux into zynq7020.
+Modify the clock in devicetree.
+Modify the ethernet phy description in devicetree.
